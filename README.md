@@ -1,4 +1,3 @@
-# README
 ## Files in this website are for the following article:
 > **Yu-Dong Cai,Shiqi Zhang,Yu-Hang Zhang,Xiaoyong Pan,KaiYan Feng,Lei Chen,Tao Huang,XiangYin Kong,**
 > Identification of the gene expression rules that define the subtypes in glioma, submitted to Journal of Clinical Medicine.
